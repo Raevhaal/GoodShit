@@ -1,6 +1,5 @@
 
 # da List
-
 * Avatar the last airbender
 * Log Horizon
 * Code Geass
@@ -15,14 +14,32 @@
 * Sword art online Abridged [Playlist](https://www.youtube.com/watch?v=V6kJKxvbgZ0&list=PLuAOJfsMefuej06Q3n4QrSSC7qYjQ-FlU)
 * Wandering Witch: The Journey of Elaina
 * Mr. Robot
+* Mindhunter
+* Parks and Recreation
+* Ozark
+* How I met your mother
 * The boys
-
-
-### temp
+* Fringe
+* DareDevil
+* White Collar
+* Gotham
+* Silicon valley [imdb](https://www.imdb.com/title/tt2575988)
+* The Dark Knight film series
+* Schindler's list
 * Salaryman's club
 * Vinland saga
 * Rick and Morty
 * House
+
+
+
+
+## Everyone has already watched this so didnt want it on the main list 
+* Lord of the rings
+* Forest Gump
+* The Matrix
+* Star Wars
+* Harry Potter
 
 
 ## Undecided:
@@ -33,27 +50,46 @@
 * Severance
 * The Marvelous Mrs. Maisel
 * The Bear [imdb](https://www.imdb.com/title/tt14452776/?ref_=chttvtp_i_167)
+* Cobra Kai. S1?
 
 ## Need to rewatch ...
 * Konosuba
 * No game no life
 * Gravity falls
+* Swordfish hacking movie
+* Firefly
 
+## Currently watching
+* Always sunny
 
 
 ## Trash but like somehow kinda good idk
 * The Magicians [imdb](https://www.imdb.com/title/tt4254242/)
 * Shameless [imdb](https://www.imdb.com/title/tt1586680/?ref_=chttvtp_t_211)
 * Death Note
+* The legend of Korra
+* Kim's Convenience 
+* Heroes [imdb](https://www.imdb.com/title/tt0813715/)
 * Archer [imdb](https://www.imdb.com/title/tt1486217/?ref_=chttvtp_i_155)
 * Ascendance of a Bookworm
+* Bojack Horseman 
+* Lie to Me
 * Reincarnated as a slime
 * My Hero Academia
+* Elementary [imdb](https://www.imdb.com/title/tt2191671/)
 * Akame ga Kill!
 * Gate (anime)
 * Akashic Records of Bastard Magic Instructor
 * Campfire Cooking in Another World with my Absurd Skill
 * Handyman Saitou in Another World
 * Saving 80,000 Gold in Another World for My Retirement
+* BlackList
+* Blue mountain state
+* Squid game
 
 
+
+
+## To watch
+* Andor
+* boston legal?
