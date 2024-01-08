@@ -30,9 +30,12 @@
 * Vinland saga
 * Rick and Morty
 * House
+* Spider-Man Into the Spider verse
 
-
-
+## The big short movies
+* Moneyball
+* The big short
+* Catch me If you can
 
 ## Everyone has already watched this so didnt want it on the main list 
 * Lord of the rings
@@ -40,6 +43,9 @@
 * The Matrix
 * Star Wars
 * Harry Potter
+* most of the disney / pixar movies
+* The Wolf of Wall Street
+
 
 
 ## Undecided:

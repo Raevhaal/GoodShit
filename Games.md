@@ -19,7 +19,6 @@
 * Cubeworld alpha (haven't played the steam version)
 * Runescape
 
-
 ## Undecided
 * GTFO
 * Grand theft auto 5
@@ -36,13 +35,10 @@
 * Golf with friends
 * Smash 😈
 
-
 ## Trash but I like it
 * Soulcalibur 6
 * Hacknet
 
-
-
 ## Shit i should play
 * Nier automata
-
+* Factorio space mod
