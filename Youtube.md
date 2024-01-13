@@ -332,7 +332,8 @@
 * Matt Gray
     * british man does things, gameboy camera video https://www.youtube.com/watch?v=OeFE_wMHaNQ
 
-
-## Not for everyone
 * Level1Techs
     * I mostly watch the news https://www.youtube.com/watch?v=Zz5tUymHBt0
+
+* Ratlobber
+    * Cool videos mostly about source, modding tf2 on xbox: https://www.youtube.com/watch?v=QiKlFqkQAGw 
