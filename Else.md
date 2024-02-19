@@ -4,33 +4,34 @@
 * Log Horizon
 * Code Geass
 * Breaking bad
+* The Newsroom
 * Ikke gjør dette hjemme [Nrk might need a norwegian vpn](https://tv.nrk.no/serie/ikke-gjoer-dette-hjemme/sesong/1) or you can try [Youtube](https://www.youtube.com/playlist?list=PLE279C4930CF39A89)
 * Fullmetal alchmist brotherhood
 * Jobless Reincarnation
-* Mythbusters
-* Dr Stone
-* Magi
-* Haikyu
+* Frieren
 * Sword art online Abridged [Playlist](https://www.youtube.com/watch?v=V6kJKxvbgZ0&list=PLuAOJfsMefuej06Q3n4QrSSC7qYjQ-FlU)
+* Dr Stone
+* Vinland saga
+* Haikyu
 * Wandering Witch: The Journey of Elaina
 * Mr. Robot
-* Mindhunter
 * Parks and Recreation
-* Ozark
-* How I met your mother
-* The boys
-* Fringe
-* DareDevil
-* White Collar
-* Gotham
-* Silicon valley [imdb](https://www.imdb.com/title/tt2575988)
-* The Dark Knight film series
-* Schindler's list
+* Mindhunter
+* Mythbusters
 * Salaryman's club
-* Vinland saga
+* DareDevil
+* Schindler's list
+* The Dark Knight film series
+* Silicon valley [imdb](https://www.imdb.com/title/tt2575988)
+* Magi
 * Rick and Morty
-* House
-* Spider-Man Into the Spider verse
+* Ozark
+
+## Garbage tv but lit
+* White Collar
+* The boys
+* How I met your mother
+* Gotham
 
 ## The big short movies
 * Moneyball
@@ -49,7 +50,6 @@
 
 
 ## Undecided:
-* Frieren
 * Cyberpunk edgerunners
 * One punch man
 * Nathan for You

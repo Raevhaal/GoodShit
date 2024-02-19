@@ -337,3 +337,6 @@
 
 * Ratlobber
     * Cool videos mostly about source, modding tf2 on xbox: https://www.youtube.com/watch?v=QiKlFqkQAGw 
+
+* From Scratch
+    * Terraria computer https://www.youtube.com/watch?v=zXPiqk0-zDY
