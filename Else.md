@@ -4,7 +4,7 @@
 * Log Horizon
 * Code Geass
 * Breaking bad
-* The Newsroom
+* The Newsroom | still watching
 * Ikke gjør dette hjemme [Nrk might need a norwegian vpn](https://tv.nrk.no/serie/ikke-gjoer-dette-hjemme/sesong/1) or you can try [Youtube](https://www.youtube.com/playlist?list=PLE279C4930CF39A89)
 * Fullmetal alchmist brotherhood
 * Jobless Reincarnation
