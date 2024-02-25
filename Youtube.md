@@ -50,6 +50,9 @@
 * Junferno: 
     * Hard to explain but he does compsci type videos https://www.youtube.com/watch?v=wUQbchYY80U
 
+* Alex's Alchemy
+    * Makes and does battle bot events currently cheese cake the 1 pound robot https://www.youtube.com/watch?v=IFbMgoOWIMc
+
 * Codebullet
     * Automating games / haha funny programming man https://www.youtube.com/watch?v=os4DcbpL0Nc
 
