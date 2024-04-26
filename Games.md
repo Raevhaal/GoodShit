@@ -1,6 +1,7 @@
 
 # vidia gaming
 * Minecraft
+* Soulcalibur 6
 * Terraria
 * Risk of Rain 2
 * Factorio
@@ -36,7 +37,6 @@
 * Smash 😈
 
 ## Trash but I like it
-* Soulcalibur 6
 * Hacknet
 
 ## Shit i should play
